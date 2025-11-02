@@ -18,16 +18,18 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## TODO:
 
-add account (money in account for example savings)
+- Create account (log in/sign up)
 
-able to add money and subtract from the account as expenses, income or transfer
+- add account (money in account for example savings)
 
-transaction history with notes
+- able to add money and subtract from the account as expenses, income or transfer
 
-catogories for expenses
+- transaction history with notes
 
-filtering expenses (eg food)
+- catogories for expenses
 
-monthly & yearly summery 
+- filtering expenses (eg food)
 
-reoccuring transactions
+- monthly & yearly summery 
+
+- reoccuring transactions
