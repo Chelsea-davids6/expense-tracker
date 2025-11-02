@@ -14,3 +14,22 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## TODO:
+
+- Create account (log in/sign up)
+
+- add account (money in account for example savings)
+
+- able to add money and subtract from the account as expenses, income or transfer
+
+- transaction history with notes
+
+- catogories for expenses
+
+- filtering expenses (eg food)
+
+- monthly & yearly summery 
+
+- reoccuring transactions
